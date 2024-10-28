@@ -1,0 +1,21 @@
+{
+  "name": "innfly",
+  "version": "1.0.0",
+  "description": "Poryect for innfly interview",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AfroMonkeyJK/Automation-Test.git"
+  },
+  "author": "Andreu.Martinez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AfroMonkeyJK/Automation-Test/issues"
+  },
+  "homepage": "https://github.com/AfroMonkeyJK/Automation-Test#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.48.2",
+    "@types/node": "^22.8.1"
+  }
+}
